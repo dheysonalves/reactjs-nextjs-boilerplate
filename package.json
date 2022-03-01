@@ -57,6 +57,7 @@
 		"lint-staged": "^10.5.3",
 		"plop": "^2.7.4",
 		"prettier": "^2.2.1",
-		"typescript": "^4.3.5"
+		"typescript": "^4.3.5",
+		"webpack": "^4.44.2"
 	}
 }
